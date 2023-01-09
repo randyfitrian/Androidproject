@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Activities Update Challenge</string>
+    <string name="item_list">Daftar Belanja</string>
+    <string name="add_item">Add Item</string>
+    <string name="choose_an_item">Pilih Item</string>
+    <string name="apple">Apel</string>
+    <string name="rice">Nasi</string>
+    <string name="cheese">Keju</string>
+</resources>

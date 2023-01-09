@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThirdActivity">
+
+    <TextView
+        android:id="@+id/article_heading"
+        android:text="@string/judul_artikel"
+        android:background="#DF3B2F"
+        android:padding="@dimen/cardview_default_radius"
+        android:gravity="center_horizontal"
+        android:textColor="#151F27"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/article_subheading"
+        android:text="@string/article_subtitle"
+        android:textColor="#170C08"
+        android:layout_below="@id/article_heading"
+        android:layout_marginTop="10dp"
+        android:padding="@dimen/cardview_default_radius"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/article_subheading">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/article"
+                android:autoLink="web"
+                android:layout_marginTop="10dp"
+                android:lineSpacingExtra="5dp"
+                android:padding="@dimen/cardview_default_radius"
+                android:text="@string/articletext"
+                android:textColor="#130B0A"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

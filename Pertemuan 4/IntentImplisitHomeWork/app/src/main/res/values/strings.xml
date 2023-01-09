@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent Implisit Home Work</string>
+    <string name="edit_text_uri" />
+    <string name="button_uri">Open Website</string>
+    <string name="edit_text_loc" />
+    <string name="button_loc">Open Location</string>
+    <string name="edit_text_share" />
+    <string name="button_share">Share Text</string>
+    <string name="button_take_picture">Take A Picture</string>
+    <string name="uri_label" />
+</resources>

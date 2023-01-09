@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent Implisit Challenge</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_list">Daftar Belanja</string>
+    <string name="button_loc">Open Location</string>
+    <string name="choose_an_item">Pilih Item</string>
+    <string name="cheese">Keju</string>
+    <string name="rice">Nasi</string>
+    <string name="apple">Apel</string>
+</resources>

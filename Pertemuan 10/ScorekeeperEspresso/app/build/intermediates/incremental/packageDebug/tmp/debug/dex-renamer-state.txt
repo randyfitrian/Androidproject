@@ -1,0 +1,4 @@
+#Mon Dec 05 22:02:40 SGT 2022
+base.0=C\:\\Users\\Ucok\\AndroidStudioProjects\\ScorekeeperEspresso\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

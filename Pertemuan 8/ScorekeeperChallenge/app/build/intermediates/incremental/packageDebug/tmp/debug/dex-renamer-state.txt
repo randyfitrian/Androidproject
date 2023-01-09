@@ -1,0 +1,4 @@
+#Mon Nov 28 23:17:54 SGT 2022
+base.0=C\:\\Users\\Ucok\\AndroidStudioProjects\\ScorekeeperChallenge\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
